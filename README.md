@@ -1,0 +1,2 @@
+# PineappleHelper
+WIP Discord bot
