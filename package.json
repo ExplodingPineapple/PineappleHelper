@@ -1,0 +1,23 @@
+{
+  "name": "pineapplehelper",
+  "version": "0.0.1",
+  "description": "Discord helper bot for Exploding Pineapple",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExplodingPineapple/PineappleHelper.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Exploding Pineapple",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ExplodingPineapple/PineappleHelper/issues"
+  },
+  "homepage": "https://github.com/ExplodingPineapple/PineappleHelper#readme"
+}
