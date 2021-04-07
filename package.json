@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ExplodingPineapple/PineappleHelper/issues"
   },
-  "homepage": "https://github.com/ExplodingPineapple/PineappleHelper#readme"
+  "homepage": "https://github.com/ExplodingPineapple/PineappleHelper#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }
