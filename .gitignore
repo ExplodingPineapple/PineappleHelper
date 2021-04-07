@@ -197,5 +197,4 @@ $RECYCLE.BIN/
 # .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,visualstudiocode,node,yarn
-config.json*
-*.json
+config.json
